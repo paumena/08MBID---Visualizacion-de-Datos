@@ -39,3 +39,4 @@ var visualization = d3plus.viz()
 .y('value')
 .axes({ ticks: 'false' })
 .draw();
+
